@@ -40,7 +40,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 # How to use it
 
- Clone this repo into your VM or OS with https://github.com/julianamonr03/monty
+ Clone this repo into your VM or OS with https://github.com/Mahiuha/monty
 
 > Compiler to use: `GCC version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.4)`
 
